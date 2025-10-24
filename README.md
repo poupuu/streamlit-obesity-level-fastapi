@@ -1,7 +1,7 @@
 # Obesity Prediction with Streamlit & FastAPI
 
 ## Summary:
-Predicts obesity categories based several related data for classification model that exported into pkl to deploy into streamlit with FastAPI
+Predicts obesity categories based several related data for classification model that exported into pkl to deploy into streamlit with FastAPI as backend
 
 ## Problem:
 Obesity is a major health issue, early identification for risk prevention is a key, the goal is to create an accessible tool that can:
