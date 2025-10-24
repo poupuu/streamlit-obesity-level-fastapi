@@ -22,6 +22,8 @@ Obesity is a major health issue, early identification for risk prevention is a k
 3. Web App & Frontend: creating interactive app with streamlit for user input
 
 ## Results:
-1. 
+1. Real-time classification user's obesity with adjustment from streamlit
 
 ## Next Steps
+1. Add Model Explainability (XAI): why the model giving that prediction
+2. Provide actionable advice based on classification results
